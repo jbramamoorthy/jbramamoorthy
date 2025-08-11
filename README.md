@@ -5,7 +5,7 @@
 ![Header](./header_1.png)
 
 ## About Me 🧑‍💻
-I'm a passionate DevOps Engineer with 10+ years of experience in automating and optimizing mission-critical deployments in private and public cloud environments. I have a strong background in software development & architecture, system administration, and continuous integration/continuous deployment (CI/CD) processes.
+I'm a passionate DevOps Engineer with 11+ years of experience in automating and optimizing mission-critical deployments in private and public cloud environments. I have a strong background in software development & architecture, system administration, and continuous integration/continuous deployment (CI/CD) processes.
 
 ## Skills 🛠️
 - **Languages**: Python, Bash, Java, TypeScript
