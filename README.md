@@ -32,16 +32,16 @@ I'm stacked-up expertise in a range of cloud automation and container orchestrat
 <details>
   <summary><b>:part_alternation_mark: &nbsp;&nbsp;Profile Streaks & Stats</b></summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeh1928&show_icons=true&theme=synthwave)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jeh1928&theme=sea&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbramamoorthy&show_icons=true&theme=synthwave)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbramamoorthy&theme=sea&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
 <details>
   <summary><b>:chart_with_upwards_trend: &nbsp;&nbsp;Profile Metrics</b></summary>
 
-![GitHub Metrics](https://metrics.lecoq.io/Jeh1928?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta)
+![GitHub Metrics](https://metrics.lecoq.io/jbramamoorthy?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta)
 
 </details>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeh1928)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jbramamoorthy)
