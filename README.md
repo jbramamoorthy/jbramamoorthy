@@ -1,47 +1,33 @@
-![Profile views](https://komarev.com/ghpvc/?username=Jeh1928) 
+![Profile views](https://komarev.com/ghpvc/?username=jbramamoorthy) 
 
 # Hey there, I'm Jeh 👋
 
 ![Header](./header_1.png)
 
 ## About Me 🧑‍💻
-I'm a passionate DevOps Engineer with 11+ years of experience in automating and optimizing mission-critical deployments in private and public cloud environments. I have a strong background in software development & architecture, system administration, and continuous integration/continuous deployment (CI/CD) processes.
+
+Accomplished DevOps & Platform Engineer with over a decade of expertise in optimizing mission-critical cloud infrastructure. I combine a strong background in software development and system administration to deliver robust, secure, and automated CI/CD processes. My focus is on transforming complex architectural challenges into streamlined, scalable solutions for the modern enterprise.
 
 ## Skills 🛠️
-- **Languages**: Python, Bash, Java, TypeScript
-- **CI/CD Tools**: Jenkins, GitLab CI, CircleCI, Travis CI
-- **Cloud Platforms**: AWS, Azure, Google Cloud Platform, OpenStack, VMWare
-- **Containerization**: Docker, Kubernetes
-- **Infrastructure as Code**: Terraform, Ansible, CloudFormation
-- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Victoria Metrics
-- **Version Control**: Git, GitHub, GitLab
+
+:white_check_mark: **Languages**: Python, Bash, Java, TypeScript <br>
+:white_check_mark: **CI/CD Tools**: Jenkins, GitLab CI, CircleCI, Travis CI <br>
+:white_check_mark: **Cloud Platforms**: AWS, Azure, Google Cloud Platform, OpenStack, VMWare <br>
+:white_check_mark: **Containerization**: Docker, Kubernetes, Rancher, Openshift <br>
+:white_check_mark: **Infrastructure as Code**: Pulumi, Terraform, Ansible, CloudFormation <br>
+:white_check_mark: **Observability**: Prometheus, Grafana, ELK Stack, Victoria Metrics <br>
+:white_check_mark: **Version Control**: Git, GitHub, GitLab, BitBucket <br>
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 ## Services Offered 📣
 
-I'm stacked-up expertise in a range of cloud automation and container orchestration technologies to support organizations at any stage of their cloud transformation journey.
+Providing end-to-end expertise in cloud automation, container orchestration, and AI-driven solutions to empower organizations at every stage of their digital transformation journey.
 
- :white_check_mark: Cloud Native Transformation - Cloud-native technologies are used to develop applications built with services packaged in containers <br>
- :white_check_mark: DevOps Consulting & Support <br>
- :white_check_mark: Kubernetes Consulting & Support - Build, Run, and Manage Apps in the Cloud with Kubernetes <br>
- :white_check_mark: CI/CD Pipeline Implementation in Kubernetes <br>
- :white_check_mark: Terraform Professional Support - Manage Hundreds of Cloud Services with Terraform <br>
- :white_check_mark: Infrastructure as Code Enablement -IaC automates app provisioning to efficiently manage hundreds of cloud services <br>
+  🚀 **AI & Intelligent Automation** - Implementation of AI models and LLMOps to drive innovation and business intelligence. <br>
+  ☁️ **Cloud Native Transformation** - ransitioning legacy applications to modern, scalable architectures using containerized microservices. <br>
+  ☸️ **Kubernetes Consulting & Support** - Expertise in building, running, and managing production-grade Kubernetes environments. <br>
+  ⚙️ **Platform Engineering & DevOps** - Automated, high-velocity deployment workflows specialized for Kubernetes environments. <br>
+  🛠 **Infrastructure as Code (IaC)** - End-to-end IaC enablement to manage hundreds of cloud services with consistency and speed. <br>
  
-<details>
-  <summary><b>:part_alternation_mark: &nbsp;&nbsp;Profile Streaks & Stats</b></summary>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbramamoorthy&show_icons=true&theme=synthwave)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbramamoorthy&theme=sea&hide_border=true)](https://git.io/streak-stats)
-
-</details>
-
-<details>
-  <summary><b>:chart_with_upwards_trend: &nbsp;&nbsp;Profile Metrics</b></summary>
-
-![GitHub Metrics](https://metrics.lecoq.io/jbramamoorthy?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta)
-
-</details>
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jbramamoorthy)
